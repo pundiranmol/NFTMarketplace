@@ -6,7 +6,7 @@ Clone the repo, and run `yarn start` to deploy.
 
 ```bash
 $ git clone https://github.com/metaplex-foundation/storefront-deprecated.git
-$ cd metaplex/js
+$ cd NFTMarketplace/js
 $ yarn install && yarn bootstrap && yarn build
 $ yarn start
 ```
